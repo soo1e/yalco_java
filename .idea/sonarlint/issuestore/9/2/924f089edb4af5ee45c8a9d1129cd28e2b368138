@@ -1,7 +1,10 @@
 
-0
-java:S1220""Move this file to a named package.
-@
-java:S3457"%String contains no format specifiers.(Šªž„ýÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Šªž„ýÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ðö¶žüÿÿÿÿ
+“	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÈä‰8Ýè“¦Ý1J$ed47d55b-3e10-4d51-9ed2-ce7edd568cf7
+]
+java:S1220""Move this file to a named package.8Ýè“¦Ý1J$9211c1bf-0221-4b08-9412-12eb8a7f91c7
+r	java:S106"+Replace this use of System.out by a logger.(õÒ°òüÿÿÿÿ8âè“¦Ý1J$e8f7402a-e49d-42c3-b8a8-38d2c8927172
+r	java:S106	"+Replace this use of System.out by a logger.(©¦ßÒùÿÿÿÿ8äè“¦Ý1J$86c7cec1-31cb-4f6f-adf4-bd1c6d579799
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(™–ÊÐ8 ú™¦Ý1J$d24853e2-b30c-4b1a-bfeb-35a2af246266
+m	java:S106"+Replace this use of System.out by a logger.(™–ÊÐ8åè“¦Ý1J$e28f6c06-a8ea-45bc-a28a-a63e5293b8c1
